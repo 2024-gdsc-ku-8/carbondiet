@@ -10,5 +10,5 @@ RUN npm run build
 
 EXPOSE 3000
 
-ENTRYPOINT npm run start:dev
+ENTRYPOINT npm run start:prod
 
